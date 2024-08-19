@@ -1,41 +1,47 @@
-![I18n-with-nol-ibs](https://user-images.githubusercontent.com/50122135/181273696-b32ec6c7-ea10-4e76-a514-3c693402f9d1.png)
+<h1 align="center"> I18n-with-no-libs </h1>
 
-> Status: Finished ✔️
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### This is an application with internationalization, but only using ReactJS, without any lib
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Some features used on this project
+<br>
 
-  * React Context API
-  * Styles with ChackraUI
-  * Language schemas with TypeScript
+<p align="center">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
+</p>
 
-## On this project you can see
+## 🚀 Tecnologias
 
-* A very simple layout created with ChackraUI
-* A button that translates between the languages
-* A placeholder text that changes according to the selected language
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Technologies used
+- React
+- TypeScript
+- ChakraUI
 
-<table>
-  <tr>
-    <td>React</td>
-    <td>TypeScript</td>
-    <td>ChackraUI</td>
-  </tr>
-  
-  <tr>
-    <td>18.0.1</td>
-    <td>4.6.4</td>
-    <td>2.0.0</td>
-  </tr>
-</table>
+## 🔥 Algumas features neste projeto
 
-## How to run this project
+- React Context API
+- Estilização com ChakraUI
+- Criação de esquemas de linguagem com TypeScript
 
-1) Clone the repositorie from my Github.
-2) Enter in the project folder on your code editor.
-3) Run the command "yarn" to install all the dependencies used in the project.
-4) Run the command "yarn dev" to run the project on your computer.
-5) Enter in the project URL to see the application.
+## ✨ Neste projeto você pode ver
+
+- Um simples layout criado com ChakraUI.
+- Um botão que quando clicado muda a linguagem dos textos do site.
+- Um texto de exemplo que muda de acordo com a linguagem selecionada.
+
+## 💻 Projeto
+
+- Este projeto é uma aplicação com internacionalização, mas criada somente com ReactJS sem o uso de nenhuma lib.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
